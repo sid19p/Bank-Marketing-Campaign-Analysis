@@ -56,9 +56,6 @@ The dataset used in this project includes information from a bank marketing camp
 - **Data Visualization:** Used bar charts and other visualizations to explore conversion rates by feature.
 
 ---
-<img width="677" alt="powerbi2" src="https://github.com/user-attachments/assets/74757c70-3d5d-409e-8a75-ee9686b7f760">
-
----
 
 ## Key Insights and Recommendations
 
